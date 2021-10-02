@@ -1,9 +1,31 @@
 *, body {
 	margin: 0;
 	font-family: Segoe UI, sans-serif, Arial;
-	/*background-color: #ffcfff;*/
+	line-height: 1;
 }
 
 .container {
 	margin: 2rem;
+}
+
+.text-align {
+	text-align: center !important;
+	align-content: center;
+}
+
+h1 {
+	line-height: 1.1 !important;
+	margin-bottom: 0 !important;
+	text-align: center !important;
+	padding: 0;
+}
+
+h1.header {
+	letter-spacing: 1.2rem !important;
+}
+
+h1.display-5 {
+	margin-top: 1rem;
+	font-size: 1.3rem;
+	color: rgb(33, 37, 41);
 }
