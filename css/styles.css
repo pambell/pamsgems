@@ -1,0 +1,9 @@
+*, body {
+	margin: 0;
+	font-family: Segoe UI, sans-serif, Arial;
+	/*background-color: #ffcfff;*/
+}
+
+.container {
+	margin: 2rem;
+}
