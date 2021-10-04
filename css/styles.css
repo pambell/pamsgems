@@ -1,7 +1,7 @@
 *, body {
 	margin: 0;
 	font-family: Segoe UI, sans-serif, Arial;
-	line-height: 1;
+	line-height: 1.1 !important;
 }
 
 .container {
@@ -13,8 +13,7 @@
 	align-content: center;
 }
 
-h1 {
-	line-height: 1.1 !important;
+h1, .lead {
 	margin-bottom: 0 !important;
 	text-align: center !important;
 	padding: 0;
